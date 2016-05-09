@@ -1,1 +1,1 @@
-# phpbasictraining
+# PhpBasicTraining
